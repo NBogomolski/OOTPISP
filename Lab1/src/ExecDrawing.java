@@ -1,3 +1,5 @@
+import point.Point;
+
 /*
  1. "Ознакомление с концепциями ООП: наследование и полиморфизм типов (виртуальные методы)"
  Построить иерархию классов для вывода графических фигур: отрезок, прямоугольник, эллипс и
@@ -9,17 +11,8 @@
  в виде текстовых строк вида "Rectangle(10, 20, 30, 40)".
  */
 
-
-public class Point {
-    private int x, y;
-
-    Point(int x, int y) {
-        this.x = x;
-        this.y = y;
-    }
-
-    public void printCoordinates() {
-        System.out.println("Point(" + x + ", " + y);
+public class ExecDrawing {
+    public static void main(String[] args) {
+        Point pt = new Point(100, 100);
     }
 }
-
