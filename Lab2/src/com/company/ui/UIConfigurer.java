@@ -13,7 +13,7 @@ import java.util.List;
 
 
 //Class for creating canvas panel & menu
-public class UiInitializer {
+public class UIConfigurer {
 
     private JFrame frame;
     public JPanel drawingCanvas;
@@ -21,7 +21,7 @@ public class UiInitializer {
 
     public void initFrame(JFrame frame){
         this.frame = frame;
-        frame.setSize(700,600);
+        frame.setSize(1350,700);
         frame.setTitle("Paint lite");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 

@@ -38,7 +38,7 @@ public class MenuFigureItemListener {
             textFields.add(textField);
         }
 
-        okButton = new JButton("Enter");
+        okButton = new JButton("Draw");
         okButton.setBounds(85, yPos+20,75,25);
         f.add(okButton);
         f.setLayout(null);
@@ -52,7 +52,5 @@ public class MenuFigureItemListener {
         f.setVisible(true);
     }
 
-    public void buttonListener(){
-
-    }
+    public void buttonListener(){ }
 }
