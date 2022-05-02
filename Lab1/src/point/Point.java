@@ -1,15 +1,17 @@
 package point;
 
-public class Point {
+/*public class lol {
     private int x, y;
 
-    public Point(int x, int y) {
+    public lol(int x, int y) {
         this.x = x;
         this.y = y;
     }
 
+    public
+
     public void printCoordinates() {
-        System.out.println("Point(" + x + ", " + y+")");
+        System.out.println("Point(" + x + ", " + y + ")");
     }
-}
+}*/
 
