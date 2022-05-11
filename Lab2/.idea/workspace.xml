@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d5eae1c0-28e3-4a93-a8fb-a620df2fd036" name="Changes" comment="feat: canvas">
-      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+    <list default="true" id="d5eae1c0-28e3-4a93-a8fb-a620df2fd036" name="Changes" comment="feat: naming, readme structure">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab2/com/company/ui/UiInitializer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab2/com/company/ui/UiInitializer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/ui/UiInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/ui/UIConfigurer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/ui/menu/MenuFigureItemListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/ui/menu/MenuFigureItemListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab2/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab2/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab2/com/company/ui/UiInitializer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab2/com/company/ui/UiInitializer$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab2/com/company/ui/UiInitializer$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab2/com/company/ui/UiInitializer$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab2/com/company/ui/UiInitializer$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab2/com/company/ui/UiInitializer$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab2/com/company/ui/UiInitializer$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab2/com/company/ui/UiInitializer$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab2/com/company/ui/UiInitializer$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab2/com/company/ui/UiInitializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab2/com/company/ui/menu/MenuFigureItemListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab2/com/company/ui/menu/MenuFigureItemListener.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +33,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
@@ -58,7 +66,17 @@
       <option name="presentableId" value="Default" />
       <updated>1645431301743</updated>
       <workItem from="1645431303062" duration="6000" />
+      <workItem from="1651476795648" duration="464000" />
+      <workItem from="1651518791599" duration="101000" />
     </task>
+    <task id="LOCAL-00001" summary="feat: naming, readme structure">
+      <created>1651452066649</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1651452066649</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -74,9 +92,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: canvas" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: canvas" />
+    <MESSAGE value="feat: naming, readme structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: naming, readme structure" />
   </component>
 </project>
