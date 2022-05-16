@@ -1,4 +1,12 @@
 package Vehicles;
 
-public abstract class Ship extends Vessel implements NonEngineDrivenVehicle{
+public class Ship extends Vessel {
+    private int cruisingSpeed;
+    public Ship(String serialNumber) {
+        super(serialNumber);
+    }
+
+    public Ship() {
+        super("Ship");
+    }
 }

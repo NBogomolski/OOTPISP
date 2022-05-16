@@ -1,8 +1,11 @@
 package Vehicles;
 
-public class Boat extends Vessel implements NonEngineDrivenVehicle{
-    @Override
-    public void move() {
-        System.out.println("A boat is moving...");
+public class Boat extends Vessel {
+    private int paddleCount;
+    private int seats;
+
+    public Boat(String serialNumber) {
+        super(serialNumber);
     }
+    public Boat(){ super("Boat");};
 }
